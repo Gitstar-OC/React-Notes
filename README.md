@@ -6,7 +6,7 @@
 - ## Hooks
     -    ####  [UseState](UsingHooks/UseStateHook.jsx)
     -    ####  [UseEffect](UsingHooks/UseEffect.jsx)
-    -    ####  [UseReducer](UsingHooks/UseReducer.jsx)
+    -    ####  [UseReducer](UsingHooks/UseReducerHook.jsx)
     -    ####  [UseRef](UsingHooks/UseRefHooks.jsx)
     -    ####  [Custom Hooks](UsingHooks/CreatingCustomHooks.jsx)
 
