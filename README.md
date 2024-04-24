@@ -15,7 +15,7 @@
     -   #### [JSX Components and Elements](Main/JSxComponents&Elements.jsx)
     -   #### [Lists and Keys](Main/ListsAndKeys.jsx)
     -   #### [ModeToggler](Main/ModeTogler.jsx)
-    -   #### [Navigation and Conditional Renders](Main/NavigationAndCondtionalRendering.jsx)
+    -   #### [Navigation and Conditional Renders](Main/NavigationAndConditionalRendering.jsx)
     -   #### [Props and State](Main/Props&State.jsx)
     -   #### [Using Assets](Main/UsingAssets.jsx)
  
