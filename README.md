@@ -21,7 +21,7 @@
  
 - ## API
     -   #### [Context API](API/ContextApi.jsx)
-    -   #### [Using Fetch](API/UsingFetch.jsx)
+    -   #### [Using Fetch](API/UsingFetch.js)
  
 - ## Higher Level Things
     -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
