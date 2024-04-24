@@ -18,3 +18,7 @@
     -   #### [Navigation and Conditional Renders](Main/NavigationAndCondtionalRendering.jsx)
     -   #### [Props and State](Main/Props&State.jsx)
     -   #### [Using Assets](Main/UsingAssets.jsx)
+ 
+- ## API
+    -   #### [Context API](API/ContextAPI.jsx)
+    -   #### [Using Fetch](API/UsingFetch.jsx)
