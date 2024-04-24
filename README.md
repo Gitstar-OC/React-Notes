@@ -8,7 +8,7 @@
     -    ####  [UseEffect](UsingHooks/UseEffect.jsx)
     -    ####  [UseReducer](UsingHooks/UseReducerHook.jsx)
     -    ####  [UseRef](UsingHooks/UseRefHook.jsx)
-    -    ####  [Custom Hooks](UsingHooks/CreatingCustomHooks.jsx)
+    -    ####  [Custom Hooks](UsingHooks/CreatingCustomHook.jsx)
 
 - ## Main
     -   #### [Components and Forms](Main/ComponentsAndForms.jsx)
