@@ -17,7 +17,7 @@
     -   #### [ModeToggler](Main/ModeTogler.jsx)
     -   #### [Navigation and Conditional Renders](Main/NavigationAndConditionalRendering.jsx)
     -   #### [Props and State](Main/Props&State.jsx)
-    -   #### [Using Assets](Main/UsingAssets.jsx)
+    -   #### [Using Assets](Main/UsingAssests.jsx)
  
 - ## API
     -   #### [Context API](API/ContextAPI.jsx)
