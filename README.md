@@ -4,8 +4,17 @@
  <h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>
 
 - ## Hooks
--    ####  [UseState](UsingHooks/UseStateHook.jsx)
--    ####  [UseEffect](UsingHooks/UseEffect.jsx)
--    ####  [UseReducer](UsingHooks/UseReducer.jsx)
--    ####  [UseRef](UsingHooks/UseRefHooks.jsx)
--    ####  [Custom Hooks](UsingHooks/CreatingCustomHooks.jsx)
+    -    ####  [UseState](UsingHooks/UseStateHook.jsx)
+    -    ####  [UseEffect](UsingHooks/UseEffect.jsx)
+    -    ####  [UseReducer](UsingHooks/UseReducer.jsx)
+    -    ####  [UseRef](UsingHooks/UseRefHooks.jsx)
+    -    ####  [Custom Hooks](UsingHooks/CreatingCustomHooks.jsx)
+
+- ## Main
+    -   #### [Components and Forms](Main/ComponentsAndForms.jsx)
+    -   #### [JSX Components and Elements](Main/JSxComponents&Elements.jsx)
+    -   #### [Lists and Keys](Main/ListsAndKeys.jsx)
+    -   #### [ModeToggler](Main/ModeToggler.jsx)
+    -   #### [Navigation and Conditional Renders](Main/NavigationAndCondtionalRendering.jsx)
+    -   #### [Props and State](Main/Props&State.jsx)
+    -   #### [Using Assets](Main/UsingAssets.jsx)
