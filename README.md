@@ -22,3 +22,10 @@
 - ## API
     -   #### [Context API](API/ContextAPI.jsx)
     -   #### [Using Fetch](API/UsingFetch.jsx)
+ 
+- ## Higher Level Things
+    -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
+    -   #### [Render Props](HigherLevelThings/RenderProps.jsx)
+  
+
+ <h2> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h2>
