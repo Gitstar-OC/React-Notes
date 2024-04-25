@@ -11,8 +11,7 @@
     -    ####  [Custom Hooks](UsingHooks/CreatingCustomHook.jsx)
 
 - ## Main
-    -   #### [Components and Forms](Main/ComponentsAndForms.jsx)
-    -   #### [JSX Components and Elements](Main/JSxComponents&Elements.jsx)
+
     -   #### [Lists and Keys](Main/ListsAndKeys.jsx)
     -   #### [ModeToggler](Main/ModeTogler.jsx)
     -   #### [Navigation and Conditional Renders](Main/NavigationAndConditionalRendering.jsx)
@@ -26,7 +25,12 @@
 - ## Higher Level Things
     -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
     -   #### [Render Props](HigherLevelThings/RenderProps.jsx)
-  
 
+- ## Tests
+ 
+- ## Components  
+    -   #### [Components and Forms](Components/ComponentsAndForms.jsx)
+    -   #### [JSX Components and Elements](Main/JSxComponents&Elements.jsx)
+    -   
  <h2> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h2>
  <h3> Give it a ⭐ If you love this and want more notes on other topics! </h3>
