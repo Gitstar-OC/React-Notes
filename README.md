@@ -33,6 +33,7 @@
 - ## Components  
     -   #### [Components and Forms](Components/ComponentsAndForms.jsx)
     -   #### [JSX Components and Elements](Main/JSxComponents&Elements.jsx)
-    -   
+
+ ### [Here are some other popular external libraries](Popular%20External%20Libraries.md)
  <h2> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h2>
  <h3> Give it a ⭐ If you love this and want more notes on other topics! </h3>
