@@ -27,7 +27,9 @@
     -   #### [Render Props](HigherLevelThings/RenderProps.jsx)
 
 - ## Tests
- 
+    -   #### [Integration Tests](Tests/IntegrationTests.jsx)
+    -   #### [Continuous Integration](Tests/ContinuousIntegration.jsx)
+  
 - ## Components  
     -   #### [Components and Forms](Components/ComponentsAndForms.jsx)
     -   #### [JSX Components and Elements](Main/JSxComponents&Elements.jsx)
