@@ -21,6 +21,7 @@
 - ## API
     -   #### [Context API](API/ContextApi.jsx)
     -   #### [Using Fetch](API/UsingFetch.js)
+    -   #### [Theme Toggler code](API/ThemeToggler.jsx) (Toggles theme of app from dark mode to light mode and vice versa)
  
 - ## Higher Level Things
     -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
