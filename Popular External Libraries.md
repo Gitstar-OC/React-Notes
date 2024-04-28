@@ -123,8 +123,7 @@ The way you would use this function is by spreading the returned object into the
 
 - `handleSubmit`: A function that will be called when the form is submitted. It takes an event as an argument and calls the `onSubmit` function with the values object as an argument. You should hook this function to the form `onSubmit` event. 
 
-##  you gained knowledge about an open-source library called [Formik](https://formik.org/) and its perfect companion, [Yup](https://github.com/jquense/yup), to create complex React forms with ease.
-
+##  You gained knowledge about an open-source library called [Formik](https://formik.org/) and its perfect companion, [Yup](https://github.com/jquense/yup), to create complex React forms with ease.
 
 
 
