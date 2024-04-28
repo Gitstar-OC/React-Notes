@@ -9,6 +9,7 @@
     -    ####  [UseReducer](UsingHooks/UseReducerHook.jsx)
     -    ####  [UseRef](UsingHooks/UseRefHook.jsx)
     -    ####  [Custom Hooks](UsingHooks/CreatingCustomHook.jsx)
+    -    ####  [UseMemo](UsingHooks/ThemeToggler.jsx)
 
 - ## Main
 
