@@ -149,5 +149,3 @@ The way you would use this function is by spreading the returned object into the
 
 
 
-
-
