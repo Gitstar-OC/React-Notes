@@ -1,5 +1,5 @@
-# React-Notes
-- This is the react notes I have created for myself. Feel free to revise and fork when required.
+# React-Notes and Multiple Small project!
+- This is the react notes and projects that I have created. Feel free to revise and fork when required.
 
  <h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>
 
@@ -39,3 +39,7 @@
  ### [Here are some other popular external libraries](Popular%20External%20Libraries.md)
  <h2> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h2>
  <h3> Give it a ⭐ If you love this and want more notes on other topics! </h3>
+
+ # _Projects_
+
+## 
