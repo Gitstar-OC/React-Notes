@@ -1,7 +1,8 @@
 # React-Notes and Multiple Small project!
-- This is the react notes and projects that I have created. Feel free to revise and fork when required.
+- This is the react notes and projects that I have created. Feel free to review, revise and fork when required.
+- Also tell me any particular project ideas you want to collaborate, I am all in!! 
 
-
+## Outline
 
  **<h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>**
 
