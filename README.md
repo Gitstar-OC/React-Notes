@@ -68,11 +68,11 @@
 
 1. [Accordian Component](mini-projects/src/Accordian/Accordian.jsx) (<50 loc) 
 - This is a button which on click of a button open multiple div's or component as you name it, and if the button is not enables you can only see one component or div at a time!
-> `useState Hook, Coping State, Map Method, Push and Splice`.
+> #### _**`useState Hook, Coping State, Map Method, Push and Splice`**_
 
 2. [Random Color Generator](mini-projects/src/RCG.jsx) (<60 loc)
 - This is a page that on click of generate ramdom color button, generates random color which can be chosen accordingly like "RGB" or "HEX" color,
-> `useEffect , useState Hook, For-Loop`
+> #### _**`useEffect , useState Hook, For-Loop`**_
 
 ---  
 > <h5> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h5>
