@@ -12,11 +12,12 @@
 - [1.6 Components](#Components)
 - [2 Projects](#Projects)
 
- **<h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>**
-
+ ---
 
 <a name="#Notes"></a>
 # Notes
+
+**<h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>**
 
 <a name="#Hooks"></a>
 - ## Hooks
@@ -57,6 +58,7 @@
     -   #### [JSX Components and Elements](Components/JSxComponents&Elements.jsx)
 
  ### [Here are some other popular external libraries](Popular%20External%20Libraries.md)
+--- 
 
 # Projects
 
@@ -65,7 +67,8 @@
 
 2. [Random Color Generator](mini-projects/src/RCG.jsx) (<60 loc)
 - This is a page that on click of generate ramdom color button, generates random color which can be chosen accordingly like "RGB" or "HEX" color,
- 
+
+---  
 > <h5> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h5>
 > <h5> Give it a ⭐ If you love this and want more notes on other topics! </h5>
 
