@@ -17,7 +17,7 @@
 
 
 <a name="#Hooks"></a>
-- ## 1.1 Hooks
+- ## Hooks
     -    ####  [UseState](UsingHooks/UseStateHook.jsx)
     -    ####  [UseEffect](UsingHooks/UseEffect.jsx)
     -    ####  [UseReducer](UsingHooks/UseReducerHook.jsx)
@@ -26,7 +26,7 @@
     -    ####  [UseMemo](UsingHooks/UseMemoHook.jsx)
 
 <a name="#Main"></a>
-- ## 1.2 Main
+- ## Main
     -   #### [Lists and Keys](Main/ListsAndKeys.jsx)
     -   #### [ModeToggler](Main/ModeTogler.jsx)
     -   #### [Navigation and Conditional Renders](Main/NavigationAndConditionalRendering.jsx)
@@ -34,23 +34,23 @@
     -   #### [Using Assets](Main/UsingAssests.jsx)
 
  <a name="#API"></a>
-- ## 1.3 API
+- ## API
     -   #### [Context API](API/ContextApi.jsx)
     -   #### [Using Fetch](API/UsingFetch.js)
     -   #### [Theme Toggler code](API/ThemeToggler.jsx) (Toggles theme of app from dark mode to light mode and vice versa)
 
  <a name="#HLT"></a>
-- ## 1.4 Higher Level Things
+- ## Higher Level Things
     -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
     -   #### [Render Props](HigherLevelThings/RenderProps.jsx)
 
 <a name="#Tests"></a>
-- ## 1.5 Tests
+- ## Tests
     -   #### [Integration Tests](Tests/IntegrationTests.jsx)
     -   #### [Continuous Integration](Tests/ContinuousIntegration.jsx)
 
   <a name="#Components"></a>
-- ## 1.6 Components  
+- ## Components  
     -   #### [Components and Forms](Components/ComponentsAndForms.jsx)
     -   #### [JSX Components and Elements](Components/JSxComponents&Elements.jsx)
 
