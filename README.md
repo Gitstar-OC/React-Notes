@@ -12,10 +12,10 @@
 - [1.6 Components](#Components)
 
 
-<a name="#Notes"></a>
  **<h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>**
 
 
+<a name="#Notes"></a>
 <a name="#Hooks"></a>
 - ## Hooks
     -    ####  [UseState](UsingHooks/UseStateHook.jsx)
