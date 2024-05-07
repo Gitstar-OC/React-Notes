@@ -59,6 +59,9 @@
  ### [Here are some other popular external libraries](Popular%20External%20Libraries.md)
 
 # Projects
+
+1. [Accordian Component](mini-projects/src/Accordian/Accordian.jsx)
+- This is a small less than 50 lines of small Idea, which on click on a button open multiple div's or component as you name it, and if that's not enables you can only see one component at a time! (_See this is extremely useful line of code which maybe asked in interview, and might be helpful concept. You can modify it further to next level using your ideas and ability to code, I am just writing basic code of everything_)
  
 > <h5> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h5>
 > <h5> Give it a ⭐ If you love this and want more notes on other topics! </h5>
