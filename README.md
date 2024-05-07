@@ -3,7 +3,15 @@
 - Also tell me any particular project ideas you want to collaborate, I am all in!! 
 
 ## Outline
+- [1. Notes](#Notes)
+- [1.1 Hooks](#Hooks)
+- [1.1 Main](#Main)
+- [1.1 API](#API)
+- [1.1 Higher Level Things](#HLT)
+- [1.1 Tests](#Tests)
+- [1.1 Components](#Components)
 
+<a name="#Notes"></a>
  **<h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>**
 
 - ## Hooks
