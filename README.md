@@ -5,17 +5,19 @@
 ## Outline
 - [1. Notes](#Notes)
 - [1.1 Hooks](#Hooks)
-- [1.1 Main](#Main)
-- [1.1 API](#API)
-- [1.1 Higher Level Things](#HLT)
-- [1.1 Tests](#Tests)
-- [1.1 Components](#Components)
+- [1.2 Main](#Main)
+- [1.3 API](#API)
+- [1.4 Higher Level Things](#HLT)
+- [1.5 Tests](#Tests)
+- [1.6 Components](#Components)
 
-<a name="#Notes"></a>
+
  **<h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>**
 
+
+<a name="#Notes"></a>
 <a name="#Hooks"></a>
-- ## Hooks
+- ## 1.1 Hooks
     -    ####  [UseState](UsingHooks/UseStateHook.jsx)
     -    ####  [UseEffect](UsingHooks/UseEffect.jsx)
     -    ####  [UseReducer](UsingHooks/UseReducerHook.jsx)
@@ -24,7 +26,7 @@
     -    ####  [UseMemo](UsingHooks/UseMemoHook.jsx)
 
 <a name="#Main"></a>
-- ## Main
+- ## 1.2 Main
     -   #### [Lists and Keys](Main/ListsAndKeys.jsx)
     -   #### [ModeToggler](Main/ModeTogler.jsx)
     -   #### [Navigation and Conditional Renders](Main/NavigationAndConditionalRendering.jsx)
@@ -32,23 +34,23 @@
     -   #### [Using Assets](Main/UsingAssests.jsx)
 
  <a name="#API"></a>
-- ## API
+- ## 1.3 API
     -   #### [Context API](API/ContextApi.jsx)
     -   #### [Using Fetch](API/UsingFetch.js)
     -   #### [Theme Toggler code](API/ThemeToggler.jsx) (Toggles theme of app from dark mode to light mode and vice versa)
 
  <a name="#HLT"></a>
-- ## Higher Level Things
+- ## 1.4 Higher Level Things
     -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
     -   #### [Render Props](HigherLevelThings/RenderProps.jsx)
 
 <a name="#Tests"></a>
-- ## Tests
+- ## 1.5 Tests
     -   #### [Integration Tests](Tests/IntegrationTests.jsx)
     -   #### [Continuous Integration](Tests/ContinuousIntegration.jsx)
 
   <a name="#Components"></a>
-- ## Components  
+- ## 1.6 Components  
     -   #### [Components and Forms](Components/ComponentsAndForms.jsx)
     -   #### [JSX Components and Elements](Components/JSxComponents&Elements.jsx)
 
