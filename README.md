@@ -39,7 +39,7 @@
     -   #### [Using Fetch](API/UsingFetch.js)
     -   #### [Theme Toggler code](API/ThemeToggler.jsx) (Toggles theme of app from dark mode to light mode and vice versa)
 
- <a name="#HLT"></a>
+ <a name="#Higher Level Things"></a>
 - ## Higher Level Things
     -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
     -   #### [Render Props](HigherLevelThings/RenderProps.jsx)
