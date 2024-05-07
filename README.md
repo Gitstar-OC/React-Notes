@@ -10,7 +10,7 @@
 - [1.4 Higher Level Thing](#HLT)
 - [1.5 Tests](#Tests)
 - [1.6 Components](#Components)
-
+- [2 Projects](#Projects)
 
  **<h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>**
 
