@@ -45,7 +45,7 @@
     -   #### [Using Fetch](API/UsingFetch.js)
     -   #### [Theme Toggler code](API/ThemeToggler.jsx) (Toggles theme of app from dark mode to light mode and vice versa)
 
-- <a name="HLT"></a>
+ <a name="HLT"></a>
 - ## Higher Level Things
     -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
     -   #### [Render Props](HigherLevelThings/RenderProps.jsx)
@@ -67,12 +67,12 @@
 
 **_See this is extremely useful line of code which maybe asked in interview, and might be helpful concept. You can modify it further to next level using your ideas and ability to code, I am just writing basic code of that particular topic!!_**
 
-- <a name="Accordian"></a>
+ <a name="Accordian"></a>
 1. [Accordian Component](mini-projects/src/Accordian/Accordian.jsx) (<50 loc) 
 - This is a button which on click of a button open multiple div's or component as you name it, and if the button is not enables you can only see one component or div at a time!
 > #### _**`useState Hook, Coping State, Map Method, Push and Splice`**_
 
-- <a name="RCG"></a>
+ <a name="RCG"></a>
 2. [Random Color Generator](mini-projects/src/RCG.jsx) (<60 loc)
 - This is a page that on click of generate ramdom color button, generates random color which can be chosen accordingly like "RGB" or "HEX" color,
 > #### _**`useEffect , useState Hook, For-Loop`**_
