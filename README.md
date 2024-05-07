@@ -16,6 +16,8 @@
 
 
 <a name="#Notes"></a>
+# Notes
+
 <a name="#Hooks"></a>
 - ## Hooks
     -    ####  [UseState](UsingHooks/UseStateHook.jsx)
@@ -55,9 +57,9 @@
     -   #### [JSX Components and Elements](Components/JSxComponents&Elements.jsx)
 
  ### [Here are some other popular external libraries](Popular%20External%20Libraries.md)
- <h2> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h2>
- <h3> Give it a ⭐ If you love this and want more notes on other topics! </h3>
 
- # _Projects_
+# Projects
+ 
+> <h5> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h5>
+> <h5> Give it a ⭐ If you love this and want more notes on other topics! </h5>
 
-## 
