@@ -2,6 +2,8 @@
 - This is the react notes and projects that I have created. Feel free to review, revise and fork when required.
 - Also tell me any particular project ideas you want to collaborate, I am all in!! 
 
+--- 
+
 ## Outline
 - [1. Notes](#Notes)
 - [1.1 Hooks](#Hooks)
@@ -64,9 +66,11 @@
 
 1. [Accordian Component](mini-projects/src/Accordian/Accordian.jsx) (<50 loc) 
 - This is a button which on click of a button open multiple div's or component as you name it, and if the button is not enables you can only see one component or div at a time! (_See this is extremely useful line of code which maybe asked in interview, and might be helpful concept. You can modify it further to next level using your ideas and ability to code, I am just writing basic code of everything_)
+> useState Hook, Coping State, Map Method, Push and Splice
 
 2. [Random Color Generator](mini-projects/src/RCG.jsx) (<60 loc)
 - This is a page that on click of generate ramdom color button, generates random color which can be chosen accordingly like "RGB" or "HEX" color,
+> useEffect , useState Hook, For-Loop
 
 ---  
 > <h5> Remaining important notes coming soon, Adding it throughout my journey of learning react!</h5>
