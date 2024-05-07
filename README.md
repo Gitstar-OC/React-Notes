@@ -7,7 +7,7 @@
 - [1.1 Hooks](#Hooks)
 - [1.2 Main](#Main)
 - [1.3 API](#API)
-- [1.4 Higher Level Things](#Higher)
+- [1.4 Higher Level Things](#Higher%20Level%20Things)
 - [1.5 Tests](#Tests)
 - [1.6 Components](#Components)
 
