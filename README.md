@@ -1,7 +1,9 @@
 # React-Notes and Multiple Small project!
 - This is the react notes and projects that I have created. Feel free to revise and fork when required.
 
- <h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>
+
+
+ **<h3> Every part is dedicated to its use in react and also and sub - parts, you must first read the <a href="App.js"> Basics </a> </h3>**
 
 - ## Hooks
     -    ####  [UseState](UsingHooks/UseStateHook.jsx)
