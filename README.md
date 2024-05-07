@@ -7,7 +7,7 @@
 - [1.1 Hooks](#Hooks)
 - [1.2 Main](#Main)
 - [1.3 API](#API)
-- [Higher Order Components](#HLT)
+- [1.4 Higher Level Thing](#HLT)
 - [1.5 Tests](#Tests)
 - [1.6 Components](#Components)
 
@@ -39,7 +39,7 @@
     -   #### [Using Fetch](API/UsingFetch.js)
     -   #### [Theme Toggler code](API/ThemeToggler.jsx) (Toggles theme of app from dark mode to light mode and vice versa)
 
-- <a name="Tests"></a>
+- <a name="HLT"></a>
 - ## Higher Level Things
     -   #### [Higher Order Components](HigherLevelThings/(HOC)HigherOrderComponents.jsx)
     -   #### [Render Props](HigherLevelThings/RenderProps.jsx)
