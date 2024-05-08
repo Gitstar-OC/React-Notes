@@ -47,7 +47,9 @@ const RCG = () => {
       alignItems: "center",
       color: "white",
       fontSize: "60px",
-      marginTop: "80px"
+      marginTop: "80px",
+      flexDirection: "column",
+      gap: "20px"
     }}>
       <h3>{typeOfColor === 'rgb' ? 'RGB Color' : 'Hex Color'}</h3>
       <h3>{color}</h3>
